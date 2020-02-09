@@ -16,12 +16,11 @@ Objective of this to create a new react app which will be used for taking notes 
     "eslint-plugin-react": "^7.18.3"
 
 
-### Run 
+### `Run`
 
-Download this repo and do `npm install`
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
+Download this repo and do `npm install`.<br />
+Run the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.<br />
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
